@@ -1,0 +1,79 @@
+Akash
+123 Main Street
+Anytown, CA 12345
+(123) 456-7890
+akash@email.com
+
+Summary
+
+Experienced DevOps Engineer with 3+ years of experience in supporting, automating, and optimizing mission-critical deployments in AWS.
+Skilled in configuration management, CI/CD, and DevOps practices.
+Proven ability to work with Version Control Systems (VCS) like Git and GitHub, as well as SCM tools like Git for branching, tracking, and merging.
+Strong knowledge of build automation tools such as Jenkins and Maven.
+Extensive experience with Jenkins master-slave for multi-machine builds.
+Coordinated with Configuration Management to resolve environment issues prior to product release.
+Proficient in automating infrastructure deployments using Windows PowerShell and creating custom Docker Images using Dockerfile.
+Proficient in deploying container-based applications using Docker.
+Demonstrated ability in troubleshooting, configuring, and deploying enterprise applications in Tomcat.
+Proficient in scripting languages like Shell and Python.
+Well-versed in Cloud Technologies, particularly Amazon Web Services (AWS) and its services (EC2, EBS, ELB, AMI, VPC, S3, IAM).
+Strong problem-solving skills and a team-oriented individual ready to take on new challenges.
+Skills
+
+Version Control Tools: Git, GitHub
+Cloud Technologies: AWS
+Build Tools: Maven, Gradle
+Configuration Tools: Ansible
+CI and CD Tools: Jenkins
+Languages and Scripting: Python, Bash
+Operating Systems: Linux (Redhat, CentOS, Ubuntu), UNIX, Windows
+Containerization & Orchestration: Docker
+
+Experience
+
+DevOps Engineer
+
+Acme Corporation
+
+October 2019 - Present
+
+Developed automation scripts to improve efficiency and reduce manual effort.
+
+Focused on automation and integration within the DevOps team.
+
+Contributed to maintaining and deploying infrastructure and servers on AWS platforms.
+
+Created enhanced automated build and deployment processes for each release, including backup, restore, and upgrade tasks.
+
+Experienced in creating Docker images and managing Docker registry.
+
+Supported development teams in automating environment setup using Ansible.
+
+Setup and maintained container-based infrastructure on AWS.
+
+Translated client requirements into AWS solutions.
+
+Proficient in Shell scripting languages, including BASH for Linux platforms.
+
+Managed user administration tasks, such as adding, modifying, deleting user accounts, and granting sudo access.
+
+Provided AWS operations and deployment guidance throughout the application lifecycle.
+
+Automated build processes using batch scripts.
+
+Integrated CI/CD processes using Jenkins.
+
+Deployed source code using Subversion and Jenkins.
+
+Executed builds and deployments to different environments based on the defined build configurations.
+
+Conducted unit/integration tests and troubleshooted infrastructure issues.
+
+
+Education
+
+
+References
+
+
+Available upon request.
